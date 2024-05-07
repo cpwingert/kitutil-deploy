@@ -61,7 +61,7 @@ while true; do
             break
             ;;
         *)
-            echo "Invalid choice. Please enter a number between 1 and 4."
+            echo "Invalid choice. Please enter a number between 1 and 3."
             ;;
     esac
 done
